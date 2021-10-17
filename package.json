@@ -1,0 +1,25 @@
+{
+  "name": "spark-db",
+  "version": "1.0.0",
+  "description": "SparkDB is a server-based database framework for those who like to work with JSON and Firebase-like methods",
+  "main": "spark-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matjsilva/sparkdb.git"
+  },
+  "keywords": [
+    "Database",
+    "DB",
+    "Spark",
+    "JSON"
+  ],
+  "author": "matjsilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matjsilva/sparkdb/issues"
+  },
+  "homepage": "https://github.com/matjsilva/sparkdb#readme"
+}
