@@ -26,11 +26,9 @@ v8.16.0
   - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [API](#api)
-  - [Contributing](#contributing)
+  - [Library](#library)
   - [Credits](#credits)
   - [Built With](#built-with)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
 
