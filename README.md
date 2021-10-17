@@ -5,6 +5,11 @@
 
 > SparkDB is a server-based database framework for those who like to work with JSON and Firebase-like methods.
 
+## What it can do
+
+SparkDB is able (at this actual version) to create, read, delete and update databases and its documents. It can also listen for realtime updates at databases and documents specifically.
+You can work with SparkDB with the methods framework and the command-line version, which can only create and delete databases/documents, it also cannot listen for realtime updates, but it can change the configurations for the SPARK file.
+
 ## Prerequisites
 
 This project requires NodeJS (version 8 or later) and NPM.
