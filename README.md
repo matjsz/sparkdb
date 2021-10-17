@@ -25,7 +25,7 @@ v8.16.0
 
 ## Table of contents
 
-- [Project Name](#project-name)
+- [SparkDB](#sparkdb)
   - [Prerequisites](#prerequisites)
   - [Table of contents](#table-of-contents)
   - [Getting Started](#getting-started)
