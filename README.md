@@ -107,7 +107,7 @@ You may be wondering what is this 'db.spark' file. Well, it's the file you are g
 To work with SparkDB's library, you will need to do a quick setup on your workspace.
 
 ```js
-const db = require('spark-db')();
+const db = require('spark-db');
 ```
 
 After that, you are free to use SparkDB's methods.
