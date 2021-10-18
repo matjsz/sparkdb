@@ -153,4 +153,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
+MIT License © matjs
