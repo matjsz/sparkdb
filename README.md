@@ -147,7 +147,7 @@ It's just me, so... yeah.
 
 ## Authors
 
-* **matjs** - [JohnDoe](https://github.com/JohnDoe)
+* **matjs** - [matjsilva](https://github.com/matjsilva)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
